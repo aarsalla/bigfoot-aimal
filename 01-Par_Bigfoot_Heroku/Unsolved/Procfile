@@ -1,1 +1,1 @@
-web: gunicorn 01-Par-Bigfoot_Heroku:Unsolved:app:app
+web: gunicorn 01-Par_Bigfoot_Heroku.Unsolved.app:app
